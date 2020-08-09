@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 60.1 (101010) - https://sketch.com -->
+    <title>BAA49D2B-719B-47D8-B637-1D80063E17D2@3x</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Borrower_main_DT_001" transform="translate(-660.000000, -5986.000000)">
+            <g id="play_button_whole" transform="translate(670.000000, 5996.000000)">
+                <g id="Group-23" transform="translate(0.872324, 0.872324)">
+                    <circle id="Oval-Copy-3" stroke="#26B6E5" stroke-width="10" fill="#FFFFFF" cx="49.4845361" cy="49.4845361" r="54.4845361"/>
+                    <g id="play_btn_arrow" transform="translate(34.020619, 34.020619)" fill-rule="nonzero">
+                        <rect id="Rectangle" x="0" y="0" width="30.4520222" height="30.4520222"/>
+                        <polygon id="play_arrow---material" fill="#00AAE1" points="10.5922284 7.48358446 23.349088 15.6066614 10.5922284 23.7297383"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

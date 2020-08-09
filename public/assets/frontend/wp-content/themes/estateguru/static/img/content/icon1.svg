@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Icon_01</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="77.7573526%" x2="-5.38834153%" y2="112.856212%" id="linearGradient-1">
+            <stop stop-color="#029FFE" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icon_01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ICON_1-Copy">
+            <g id="Group-3-Copy-2">
+                <circle id="Oval-Copy-10" fill="#FFFFFF" cx="64" cy="64" r="52"></circle>
+                <circle id="Oval-Copy-8" fill="url(#linearGradient-1)" cx="64" cy="64" r="50"></circle>
+                <circle id="Oval-Copy-10" fill="#FFFFFF" cx="64" cy="64" r="49"></circle>
+                <path d="M63,115 C81.2638439,115 98.399835,104.620911 107.125459,90 L13,65 C13,92.6142375 35.3857625,115 63,115 Z" id="Oval-Copy-11" fill="#FFFFFF"></path>
+                <circle id="Oval" stroke="#03A0FE" fill="#FFFFFF" cx="106.5" cy="89.5" r="3"></circle>
+            </g>
+            <g id="Group-11-Copy-8" transform="translate(36.000000, 36.000000)" fill="#40C0E9" fill-rule="nonzero">
+                <path d="M42,11.6666667 L32.6666667,21 L39.6666667,21 L39.6666667,37.3333333 C39.6666667,39.9116667 37.5783333,42 35,42 C32.4216667,42 30.3333333,39.9116667 30.3333333,37.3333333 L30.3333333,21 C30.3333333,15.855 26.145,11.6666667 21,11.6666667 C15.855,11.6666667 11.6666667,15.855 11.6666667,21 L11.6666667,37.3333333 L4.66666667,37.3333333 L14,46.6666667 L23.3333333,37.3333333 L16.3333333,37.3333333 L16.3333333,21 C16.3333333,18.4216667 18.4216667,16.3333333 21,16.3333333 C23.5783333,16.3333333 25.6666667,18.4216667 25.6666667,21 L25.6666667,37.3333333 C25.6666667,42.4783333 29.855,46.6666667 35,46.6666667 C40.145,46.6666667 44.3333333,42.4783333 44.3333333,37.3333333 L44.3333333,21 L51.3333333,21 L42,11.6666667 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

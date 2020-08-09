@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>flag/finland</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.9386505,2 L12.0613495,2 C14.1545843,2 15.929139,2.41771525 17.3958057,3.20209717 C18.8624723,3.98647908 20.0135209,5.13752767 20.7979028,6.60419433 C21.5822847,8.070861 22,9.84541565 22,11.9386505 L22,12.0613495 C22,14.1545843 21.5822847,15.929139 20.7979028,17.3958057 C20.0135209,18.8624723 18.8624723,20.0135209 17.3958057,20.7979028 C15.929139,21.5822847 14.1545843,22 12.0613495,22 L11.9386505,22 C9.84541565,22 8.070861,21.5822847 6.60419433,20.7979028 C5.13752767,20.0135209 3.98647908,18.8624723 3.20209717,17.3958057 C2.41771525,15.929139 2,14.1545843 2,12.0613495 L2,11.9386505 C2,9.84541565 2.41771525,8.070861 3.20209717,6.60419433 C3.98647908,5.13752767 5.13752767,3.98647908 6.60419433,3.20209717 C8.070861,2.41771525 9.84541565,2 11.9386505,2 Z" id="path-1"></path>
+    </defs>
+    <g id="flag/finland" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+        <rect id="Rectangle-Copy-2" fill="#FFFFFF" mask="url(#mask-2)" x="0" y="0" width="24" height="24"></rect>
+        <rect id="Rectangle" fill="#3D9BE0" mask="url(#mask-2)" x="0" y="10" width="24" height="4"></rect>
+        <rect id="Rectangle-Copy" fill="#3D9BE0" mask="url(#mask-2)" transform="translate(9.000000, 15.000000) rotate(-90.000000) translate(-9.000000, -12.000000) " x="0" y="10" width="24" height="4"></rect>
+        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>
